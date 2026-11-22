@@ -51,3 +51,6 @@ SELECT
 
 FROM dbo.clean_healthcare_data;
 GO
+
+
+select * from dbo.clean_healthcare_data
